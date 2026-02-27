@@ -29,3 +29,4 @@ Example output:
 
 REPOSITORY TAG IMAGE ID
 myapp latest abc12345
+```
